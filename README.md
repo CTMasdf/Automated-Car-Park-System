@@ -1,5 +1,5 @@
 # 🚗 Automated Parking Tower Control System
-> 2025 기능경기대회 전기기기 종목 출전작  
+> 2020 전기기기 부문 전국기능경기대회 전기기기 종목 출전작  
 > ATmega16A 기반 자동 주차타워 입·출차 제어 시스템
 
 ---
